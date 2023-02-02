@@ -1,0 +1,54 @@
+
+body {
+	font-family: Georgia;
+	background-color: #DBBEA1FF;
+	text-align:center; 
+	outline-style: solid;
+}
+h1 { font-size: 34px;
+  letter-spacing: 2px;
+  font-weight: 700;
+  font-family: Georgia;
+  color: #3E282BFF
+}
+h2 { font-size: 32px;
+  letter-spacing: 3px;
+  font-weight: 700;
+  font-family: Monaco;
+  color: #D34F73FF
+}
+h3 { font-size: 32px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: Georgia;
+  color: #3E282BFF
+}
+input[type=text] {background-color: #DFCEB4;
+  height: 45px;
+  width: 30%;
+  outline: none;
+  border-radius: 5px;
+  border: 3px solid #3E282BFF;
+  padding-left: 10px;
+  font-size: 20px;
+  color: #000000
+}
+.button {font-family: Georgia;
+  font-size:16px;
+  font-weight: bold;
+  background: #A37B73FF;
+  width: 130px;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #531923;
+  border-radius: 3px;
+  cursor: pointer;
+}
+#summary {font-family: Georgia;
+   font-size:20px;
+   font-weight:bold;
+   color: #D34F73FF;
+}
+  
